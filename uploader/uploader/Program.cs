@@ -17,6 +17,7 @@ namespace uploader
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
+            //comment added
         }
     }
 }
